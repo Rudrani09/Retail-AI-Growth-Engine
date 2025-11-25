@@ -207,3 +207,14 @@ Specialty retail (cosmetics, gifts, FMCG)
 Subscription commerce
 
 
+🎯 Planned Enhancements
+
+Uplift modeling (true incremental impact)
+
+Cohort retention dashboards
+
+Product-level recommendations (market basket + embeddings)
+
+Advanced dynamic pricing
+
+Snowflake/BigQuery support
